@@ -1,0 +1,41 @@
+AutoECO Report
+FILE-A: C:\MEUS DOCUMENTOS\ALARME.MAX
+FILE-B: C:\MEUS DOCUMENTOS\MEUS DOCUMENTOS\ALARME.MNL
+If "*EOF*" immediately follows, no changes were made
+Adding footprint RESISTOR
+Adding footprint CONN2 A
+Adding footprint CONN3
+Adding footprint DIODE
+Adding footprint TIP
+Adding footprint CAPACITOR POL
+Adding footprint CAP
+Adding package R
+Adding package CON2
+Adding package CON3
+Adding package DIODE
+Adding package SCR_ACG
+Adding package CAPACITOR_POL
+Adding package LED
+Adding component R3
+Adding component J1
+Adding component J2
+Adding component D2
+Adding component D1
+Adding component J4
+Adding component J3
+Adding component R2
+Adding component R1
+Adding component Q1
+Adding component C1
+Adding component D3
+Adding net N00080
+Adding net N00142
+Adding net N00041
+Adding net N00158
+Adding net N00031
+Adding net N00034
+Adding net N00048
+Adding net N00087
+Deleting net DEFAULT
+*EOF*
+No errors found

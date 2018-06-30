@@ -1,0 +1,63 @@
+(ExpressProject ""
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (File ".\alarme.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (ANNOTATE_Scope "0")
+    (ANNOTATE_Action "0")
+    (ANNOTATE_Reset_References_to_1 "FALSE")
+    (ANNOTATE_No_Page_Number_Change "FALSE")
+    (ANNOTATE_Property_Combine "{Value}{Source Package}")
+    (NoModify)
+    (DRC_Scope "0")
+    (DRC_Action "0")
+    (DRC_Create_Warnings "TRUE")
+    (DRC_Check_Ports "FALSE")
+    (DRC_Check_Off-Page_Connectors "FALSE")
+    (DRC_Identical_References "TRUE")
+    (DRC_Type_Mismatch "TRUE")
+    (DRC_Report_Ports_and_Off-page_Connectors "FALSE")
+    (DRC_SDT_Compatibility "FALSE")
+    (DRC_Report_Off-grid_Objects "FALSE")
+    (DRC_Check_Unconnected_Wires "FALSE")
+    (DRC_Report_Netnames "FALSE")
+    (DRC_View_Output "FALSE")
+    (DRC_Report_File "C:\MEUS DOCUMENTOS\MEUS DOCUMENTOS\ALARME.DRC")
+    (Netlist_TAB "4")
+    (LAYOUT_Netlist_File "C:\MEUS DOCUMENTOS\MEUS DOCUMENTOS\ALARME.MNL")
+    (LAYOUT_PCB_Footprint "{PCB Footprint}")
+    (LAYOUT_Run_ECO "TRUE")
+    (LAYOUT_Units "0")
+    (CrossRef_Scope "0")
+    (CrossRef_Sorting "0")
+    (CrossRef_Destination_File "C:\MEUS DOCUMENTOS\MEUS DOCUMENTOS\ALARME.XRF")
+    (CrossRef_XY "FALSE")
+    (CrossRef_Unused "FALSE")
+    (XRF_View_Output "TRUE"))
+  (Folder "Outputs"
+    (File ".\alarme.drc"
+      (Type "Report"))
+    (File ".\alarme.mnl"
+      (Type "Report"))
+    (File ".\alarme.xrf"
+      (Type "Report")))
+  (Folder "Referenced Projects")
+  (Folder "Simulation Resources"
+    (Folder "In Design")
+    (Folder "Compiled")
+    (Folder "Timed"))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Outputs")
+      (Select "Design Resources"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -4 -23 0 200 0 327"))
+      (Tab 0)))
+  (PartMRUSelector))
